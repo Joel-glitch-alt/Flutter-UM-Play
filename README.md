@@ -1,0 +1,1 @@
+This Repo contains Video screen(Cloudinary), voting screen where users can vote live, a profile of user's data, including his rewards, collections, cash, and remaining gifts. Also a ListViewBuilder that displays Artists, and Trending Videos.
